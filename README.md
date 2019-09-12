@@ -1,3 +1,5 @@
+# e-shop project
+
 Project for concordia bootcamp, it's a e-shop website
 
 To start the server, run `nodemon server.js`
