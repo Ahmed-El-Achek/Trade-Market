@@ -1,6 +1,6 @@
 # e-shop project
 
-Project for concordia bootcamp, it's a team project that allowed us to develop an e-commerce website, with this project i have learn to work with Git, GitHub, Stripe, sweet alert 2and all the base of Javascript.
+Project for concordia bootcamp, it's a team project that allowed us to develop an e-commerce website, with this project i have learn to work with Git, GitHub, Stripe and all the base of Javascript.
 
 
 # test project
