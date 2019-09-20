@@ -1,6 +1,6 @@
 # e-shop project
 
-Project for concordia bootcamp, it's a team project that allowed us to develop an e-commerce website, with this project i have learn to work with Git, GitHub, Stripe and all the base of Javascript.
+With a team of three, we developed an e-comerce platform called Trade Market using Git, GitHub, Stripe and all the base of JavaScript.
 
 
 # test project
