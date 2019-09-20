@@ -1,6 +1,6 @@
 # e-shop project
 
-With a team of three, we developed an e-comerce platform called Trade Market using Git, GitHub, Stripe and all the base of JavaScript.
+With a team of three, we developed an e-comerce platform called Trade Market using Git, GitHub, Stripe, ExpressJS, MongoDB, React & Redux.
 
 
 # test project
